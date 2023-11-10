@@ -1,5 +1,5 @@
-var nome = "Maria Luiza";
+var nome = "SeuNome";
 function saudacao(){
-    console.log("Olá,"+ Maria Luiza +"!");
+    console.log("Olá,"+ nome +"!");
 }
 saudacao();
